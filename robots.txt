@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mypos-referral-code.github.io/bonus-offer/sitemap.xml
