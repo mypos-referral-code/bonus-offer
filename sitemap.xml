@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <sitemap>
-    <loc>https://mypos-referral-code.github.io/bonus-offer/</loc>
-    <lastmod>2026-02-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </sitemap>
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<url>
+<loc>https://mypos-referral-code.github.io/bonus-offer/</loc>
+<lastmod>2026-02-24</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+
+</urlset>
